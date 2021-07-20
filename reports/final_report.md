@@ -400,7 +400,7 @@ movement as they felt their voices were getting heard, while men were
 made more aware of the issue and realized women were less respected than
 they thought.
 
-#### Perceieved female respect and female STEM graduates
+#### Perceived female respect and female STEM graduates
 
 ``` r
 women_respect_stem_grad %>% 

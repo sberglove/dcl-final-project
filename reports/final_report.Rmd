@@ -292,7 +292,7 @@ Again, it is worthwhile pulling the United States data out specifically:
 
 Pulling out the US specifically, we see that there was a decrease in 2016, especially for women. This could be due to the sexist comments by Donald Trump. Men actually thought that females were respected more then, potentially because Hillary Clinton was running for president. The increase in women's perceptions for 2017 could be due to the #MeToo movement as they felt their voices were getting heard, while men were made more aware of the issue and realized women were less respected than they thought.
 
-#### Perceieved female respect and female STEM graduates
+#### Perceived female respect and female STEM graduates
 
 ```{r respect_STEM_basic_correlation, message=FALSE, out.width="100%"}
 women_respect_stem_grad %>% 
